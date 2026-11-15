@@ -26,7 +26,7 @@ mã **SHA256** để đối chiếu file. Tool tự báo khi có phiên bản m�
 
 1. Windows 10 / 11 bản 64-bit.
 2. Chỉ cần **1 file `Bios Tool_V*.exe`** — chép vào đâu cũng chạy. Bộ công cụ (MEA, công cụ tách BIOS, PMC/PHY)
-   nằm sẵn trong EXE, lần đầu mở tự cài vào `%LOCALAPPDATA%\Mac68BiosTool` (vài giây, chỉ một lần).
+   nằm sẵn trong EXE
 3. Chạy file EXE (lần đầu Windows SmartScreen có thể hỏi — chọn *More info → Run anyway*).
 
 Kho dữ liệu **ME sạch (CleanME) + FIT** được tool **tự tải từ máy chủ Mac68** khi cần — chỉ tải đúng phần
