@@ -55,4 +55,4 @@ Xem ghi chú từng phiên bản ở trang **[Releases](https://github.com/9xnok
 
 ---
 
-Tham khảo & ghi nhận: [Mac68.Vn](https://mac68.vn) · [Win-Raid](https://winraid.level1techs.com/) · [Badcaps](https://www.badcaps.net/) · [Chính sách quyền riêng tư](https://mac68-license.mac68.workers.dev/privacy)
+Tham khảo & ghi nhận: [Mac68.Vn](https://mac68.vn) · [Win-Raid](https://winraid.level1techs.com/) · [Badcaps](https://www.badcaps.net/) · [Chính sách quyền riêng tư](https://fpu.mac68.vn/privacy)
