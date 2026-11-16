@@ -19,8 +19,8 @@ mã **SHA256** để đối chiếu file. Tool tự báo khi có phiên bản m�
 | **Tách BIOS đa hãng** | Lấy ảnh BIOS chuẩn từ gói cập nhật của hãng (Dell PFS, HP SoftPaq / AMI UCP, Lenovo, Acer, MSI, Insyde, Gigabyte, ASUS, Surface…). |
 | **Tra cứu BIOS hãng** | Tìm nhanh gói BIOS theo model / mã main. |
 | **Apple MacBook** | Mac EFI / T2: đọc dump, gỡ EFI Lock, đổi serial, thay / sửa Fsys, xoá NVRAM, thay vùng ME (tự chọn ME sạch đúng model). Kho ROM gốc chip USB-C (CD3215 / CD3217) và dữ liệu T2 theo model, mã main, vị trí IC. |
-| **DMI / Serial** | Đọc, sao chép và nạp lại thông tin máy. |
-| **Mở khoá mật khẩu BIOS** | Hỗ trợ nhiều hãng (HP, Dell, Lenovo, ASUS, Acer, Gigabyte…). |
+| **DMI / Serial / Key Windows** | Đọc, sao chép và nạp lại thông tin máy; Lenovo ThinkPad đọc DMI trong EC; đọc / sửa / nạp key Windows OEM (MSDM) cho mọi hãng; tuỳ chọn nạp DMI gốc + key Windows sang BIOS mới sau khi build. |
+| **Mở khoá mật khẩu BIOS** | Hỗ trợ nhiều hãng (HP, Dell, Lenovo, ASUS, Acer, Gigabyte…); Lenovo ThinkPad (mật khẩu trong EC EEPROM) và ThinkBook / IdeaPad (đọc mật khẩu plaintext). |
 | **Kiểm tra & so sánh** | Đối chiếu BIOS gốc với BIOS đã xử lý. |
 | **Công cụ nâng cao** | Fix TPM (Intel PTT), Disable RAM onboard, tráo Region trực tiếp. |
 
