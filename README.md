@@ -24,6 +24,39 @@ mã **SHA256** để đối chiếu file. Tool tự báo khi có phiên bản m�
 | **Kiểm tra & so sánh** | Đối chiếu BIOS gốc với BIOS đã xử lý. |
 | **Công cụ nâng cao** | Fix TPM (Intel PTT), Disable RAM onboard, tráo Region trực tiếp. |
 
+## 📸 Hình ảnh hướng dẫn
+
+Xem đầy đủ từng bước tại **https://fpu.mac68.vn/huong-dan**.
+
+<img src="docs/huong-dan/v3_01_man_hinh_chinh.jpg" alt="Màn hình chính sau khi thả BIOS (serial đã che)" width="100%"><br><sub>Màn hình chính sau khi thả BIOS (serial đã che)</sub>
+
+| <img src="docs/huong-dan/v3_00_dang_nhap.jpg" alt="Đăng nhập Google" width="100%"><br><sub>Đăng nhập Google</sub> | <img src="docs/huong-dan/v3_01a_man_hinh_trong.jpg" alt="Khi chưa mở file BIOS" width="100%"><br><sub>Khi chưa mở file BIOS</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_03_clean_me.jpg" alt="Clean ME — bảng so sánh MEA trước ↔ sau" width="100%"><br><sub>Clean ME — bảng so sánh MEA trước ↔ sau</sub> | <img src="docs/huong-dan/v3_04_fix_region.jpg" alt="Fix BIOS Region — rã BIOS gốc, đối chiếu dung lượng" width="100%"><br><sub>Fix BIOS Region — rã BIOS gốc, đối chiếu dung lượng</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_02_so_sanh_checksum.jpg" alt="So sánh checksum dump" width="100%"><br><sub>So sánh checksum dump</sub> | <img src="docs/huong-dan/v3_05_thong_tin_me.jpg" alt="Thông tin ME" width="100%"><br><sub>Thông tin ME</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_06_dmi.jpg" alt="DMI / Thông tin máy" width="100%"><br><sub>DMI / Thông tin máy</sub> | <img src="docs/huong-dan/v3_07_tach_bios_da_hang.jpg" alt="Tách BIOS đa hãng" width="100%"><br><sub>Tách BIOS đa hãng</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_08_oneclick_dell.jpg" alt="Dell One-Click Build" width="100%"><br><sub>Dell One-Click Build</sub> | <img src="docs/huong-dan/v3_09_oneclick_hp.jpg" alt="HP One-Click Build" width="100%"><br><sub>HP One-Click Build</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_10_xoa_pass.jpg" alt="Xoá Pass BIOS" width="100%"><br><sub>Xoá Pass BIOS</sub> | <img src="docs/huong-dan/v3_11_master_password.jpg" alt="Master Password" width="100%"><br><sub>Master Password</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_12_tra_cuu_me_sach.jpg" alt="Tra cứu ME sạch" width="100%"><br><sub>Tra cứu ME sạch</sub> | <img src="docs/huong-dan/v3_13_kiem_tra_pmc_phy.jpg" alt="Kiểm tra PMC / PHY" width="100%"><br><sub>Kiểm tra PMC / PHY</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_14_tim_cong_cu.jpg" alt="Tìm công cụ (Ctrl+K)" width="100%"><br><sub>Tìm công cụ (Ctrl+K)</sub> | <img src="docs/huong-dan/v3_15_chi_tiet_ky_thuat.jpg" alt="Chi tiết kỹ thuật" width="100%"><br><sub>Chi tiết kỹ thuật</sub> |
+|:-:|:-:|
+
+| <img src="docs/huong-dan/v3_16_tai_khoan.jpg" alt="Tài khoản (dữ liệu mẫu)" width="100%"><br><sub>Tài khoản (dữ liệu mẫu)</sub> | <img src="docs/huong-dan/v3_17_bao_loi.jpg" alt="Gửi báo cáo lỗi" width="100%"><br><sub>Gửi báo cáo lỗi</sub> |
+|:-:|:-:|
+
 ## 🧰 Cài đặt
 
 1. Windows 10 / 11 bản 64-bit.
