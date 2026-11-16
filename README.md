@@ -14,11 +14,11 @@ mã **SHA256** để đối chiếu file. Tool tự báo khi có phiên bản m�
 
 | Nhóm | Mô tả |
 |---|---|
-| **Clean ME & Fix Region** | Làm sạch ME, thay vùng BIOS của hãng, rã và đóng gói lại BIOS (Intel FIT). Tự chọn ME sạch đúng SKU / chipset và FIT gần đời nhất; ME rã lỗi → tự thay MFS + EFS rồi thử lại. |
+| **Clean ME & Fix Region** | Làm sạch ME, thay vùng BIOS của hãng, rã và đóng gói lại BIOS (Intel FIT). Tự chọn ME sạch đúng SKU / chipset và FIT gần đời nhất; ME rã lỗi → tự thay MFS + EFS rồi thử lại. Thay từng phân vùng ME (MFS, EFS, FLOG…) so với ME gốc. |
 | **Build BIOS tự động** | One-Click theo hãng: Dell, HP, Lenovo, Acer, Asus, AMD; hỗ trợ máy 2 chip. |
 | **Tách BIOS đa hãng** | Lấy ảnh BIOS chuẩn từ gói cập nhật của hãng (Dell PFS, HP SoftPaq / AMI UCP, Lenovo, Acer, MSI, Insyde, Gigabyte, ASUS, Surface…). |
 | **Tra cứu BIOS hãng** | Tìm nhanh gói BIOS theo model / mã main. |
-| **Apple MacBook** | Kho ROM gốc chip USB-C và dữ liệu T2 theo model, mã main, vị trí IC. |
+| **Apple MacBook** | Mac EFI / T2: đọc dump, gỡ EFI Lock, đổi serial, thay / sửa Fsys, xoá NVRAM, thay vùng ME (tự chọn ME sạch đúng model). Kho ROM gốc chip USB-C (CD3215 / CD3217) và dữ liệu T2 theo model, mã main, vị trí IC. |
 | **DMI / Serial** | Đọc, sao chép và nạp lại thông tin máy. |
 | **Mở khoá mật khẩu BIOS** | Hỗ trợ nhiều hãng (HP, Dell, Lenovo, ASUS, Acer, Gigabyte…). |
 | **Kiểm tra & so sánh** | Đối chiếu BIOS gốc với BIOS đã xử lý. |
