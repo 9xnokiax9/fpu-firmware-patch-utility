@@ -31,7 +31,7 @@ thông báo cập nhật.
 ### Dựng lại BIOS tự động (One-Click theo hãng)
 
 Quy trình một bước từ dump gốc + file hãng ra BIOS mới hoàn chỉnh: **Dell, HP, Lenovo, Acer, Asus, AMD, MSI**.
-Hỗ trợ **máy hai chip** (Build Dual Chip, tách BIOS khỏi EC) và **gộp Dual BIOS** (Merge ROM) của Dell.
+Hỗ trợ **máy hai chip**: **Build Dual SPI HP** (chip EC + chip MAIN, tự nhận đời EC 8/16MB hoặc G8+ 2 chip 32MB) và **gộp Dual BIOS** (Merge ROM) của Dell.
 
 ### Tách BIOS từ gói cập nhật của hãng
 
